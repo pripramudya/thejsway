@@ -1,24 +1,24 @@
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](LICENSE)
-[![Buy eBook on Leanpub](https://img.shields.io/badge/Buy-Leanpub-yellow.svg)](https://leanpub.com/thejsway)
-[![Buy Kindle or paperback book on Amazon](https://img.shields.io/badge/Buy-Amazon-orange.svg)](https://www.amazon.com/dp/2956444611?ref_=pe_3052080_397514860)
-[![Take the online course on Educative](https://img.shields.io/badge/Buy-Educative-red.svg)](https://www.educative.io/courses/the-complete-javascript-course-build-a-real-world-app-from-scratch)
+[![Lisensi: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)](LICENSE)
+[![Beli eBook di Leanpub](https://img.shields.io/badge/Buy-Leanpub-yellow.svg)](https://leanpub.com/thejsway)
+[![Beli Kindle atau Buku Fisik di Amazon](https://img.shields.io/badge/Buy-Amazon-orange.svg)](https://www.amazon.com/dp/2956444611?ref_=pe_3052080_397514860)
+[![Ambil kursus online di Educative](https://img.shields.io/badge/Buy-Educative-red.svg)](https://www.educative.io/courses/the-complete-javascript-course-build-a-real-world-app-from-scratch)
 
 # The JavaScript Way
 
-A gentle introduction to an essential language.
+Pengenalan sederhana untuk sebuah bahasa yang penting.
 
-Copyright © 2017-2020 [Baptiste Pesquet](http://bpesquet.fr).
+Hak Cipta © 2017-2020 [Baptiste Pesquet](http://bpesquet.fr).
 
-[![Book cover](cover.jpg)](https://www.amazon.com/dp/2956444611?ref_=pe_3052080_397514860)
+[![Sampul Buku](cover.jpg)](https://www.amazon.com/dp/2956444611?ref_=pe_3052080_397514860)
 
-## Overview
+## Pendahuluan
 
-This book aims to be a useful companion for anyone wishing to (re)discover the many facets of JavaScript. Numerous brain cycles were spent to make it:
+Buku ini dapat digunakan sebagai panduan bagi siapa saja yang ingin menemu-kembali JavaScript dari berbagai aspek. Keunggulan buku ini sebagai berikut.
 
-* **Beginner-friendly yet comprehensive**. From the very basics of programming up to front-end and back-end web development, a lot of topics are covered in a simple and accessible way. No prior knowledge needed!
-* **Standards-aligned**. The book is entirely written using the recent **ES2015** syntax, giving you future-proof knowledge. From start to finish, it enforces good programming habits, embraces the ubiquitous JavaScript tools [ESLint](http://eslint.org) and [Prettier](https://github.com/prettier/prettier) and closely follows the popular [AirBnb Style Guide](https://github.com/airbnb/javascript).
-* **Hands-on**. No real learning happens without practicing! Each chapter is accompanied by a series of exercises to put your newly acquired skills into action. A three-part project will guide you in the creation of a social news web application ([see it in action](https://thejsway-publink.herokuapp.com)).
-* **Easy to follow**. Code along directly in your browser or build an efficient JavaScript development environment on your local machine.
+* **Cocok untuk pemula namun komprehensif**. Mulai dari panduan dasar pemrograman sampai dengan *front-end* dan *back-end* pengembangan web, mencakup banyak topik yang dijelaskan secara sederhana dan mudah dipahami. Tidak perlu pengetahuan JavaScript sebelumnya!
+* **Sudah disesuaikan dengan standar**. Buku ini seluruhnya ditulis menggunakan sintaks **ES2015**, sehingga Kamu mendapatkan pengetahuan yang dapat Kamu tetap gunakan di masa depan. Hal ini dapat membuat Kamu menerapkan kebiasaan pemrograman yang baik dari mulai awal sampai akhir, serta penggunaan JavaScript *tool* yang banyak digunakan seperti [ESLint](http://eslint.org) dan [Prettier](https://github.com/prettier/prettier). Selain itu juga mengikuti panduan ala AirBnb yang populer ([AirBnb Style Guide](https://github.com/airbnb/javascript)).
+* **Banyak Latihan**. Tidak bisa belajar tanpa latihan! Setiap bab akan ada latihan yang dapat Kamu aplikasikan. Ada 3 proyek yang akan memandu Kamu agar bisa membuat aplikasi berita sosial berbasis web. Kamu bisa lihat contohnya [di sini](https://thejsway-publink.herokuapp.com).
+* **Mudah diikuti**. Koding dilakukan langsung dari browser atau bisa juga dilakukan di *environment* lokal perangkat Kamu.
 
 ## Publishing
 
